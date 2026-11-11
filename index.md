@@ -265,16 +265,16 @@
 다낭 여행 일정 견적, 업체 검증 문의, 내상·바가지 피해 사례 제보를 자유롭게 남겨주세요. 
 *(GitHub 계정으로 로그인하시면 별도 회원가입 없이 실시간 댓글과 게시글을 작성하실 수 있습니다.)*
 
-<script src="[suspicious link removed]"
+<script src="https://giscus.app/client.js"
         data-repo="rdladmin-creator/rdladmin-creator.github.io"
-        data-repo-id="R_kgDORbxxxx" 
+        data-repo-id="R_kgDOVqhy9A"
         data-category="General"
-        data-category-id="DIC_kwDORbxxxx"
-        data-mapping="pathname"
+        data-category-id="DIC_kwDOVqhy9M4DK4zE"
+        data-mapping="title"
         data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"
-        data-input-position="top"
+        data-input-position="bottom"
         data-theme="light"
         data-lang="ko"
         crossorigin="anonymous"
